@@ -15,7 +15,7 @@
               "enabled":"1"
           },
           "CB01":{
-              "url": "https://cb01net.cam",
+              "url": "https://cb01uno.uno",
               "CB_PROXY":"0",
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
@@ -23,7 +23,7 @@
               "enabled":"1"
           },
           "Guardaserie":{
-              "url": "https://guardaserietv.help",
+              "url": "https://guardaserietv.asia",
               "enabled":"1",
               "GS_ForwardProxy":"0",
               "GS_PROXY":"0"
@@ -35,7 +35,7 @@
               "GH_PROXY":"0"
           },
           "Eurostreaming":{
-            "url": "https://eurostreamings.vip/",
+            "url": "https://eurostreamings.life",
             "enabled": "1",
             "ES_ForwardProxy": "0",
             "ES_PROXY": "0"
